@@ -8,7 +8,7 @@ A simple blog app using Next.js
 - dynamic routing for post pages
 
 ## Dependencies
-This project depends on a few external modules like,
+This project depends on a few external modules:
 - `remark`
 - `gray-matter`
 - `date-fns`
